@@ -1,0 +1,12 @@
+body {
+  background: white;
+  color: black;
+}
+body .text-header {
+  font-family: "Quicksand", sans-serif;
+  font-size: 1.5em;
+  font-weight: 700;
+}
+body p {
+  font-family: "Quicksand", sans-serif;
+}/*# sourceMappingURL=style.css.map */
