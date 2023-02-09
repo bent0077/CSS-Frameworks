@@ -1,14 +1,7 @@
-.button{
-    transition-duration: 0.4s;
-    border-radius: 10px;
-}
-
-.button:hover{
-    background-color: black;
+.button {
+    font-family: 'Quicksand', sans-serif;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: blue ;
     color: white;
-}
-
-.button_filled{
-background-color: black;
-color: white;
 }
