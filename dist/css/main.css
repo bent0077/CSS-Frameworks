@@ -6,10 +6,37 @@
   font-family: "Quicksand", sans-serif;
   padding: 10px;
   border-radius: 8px;
+  background-color: aliceblue;
+  color: blue;
+  border: 1px black solid;
+  transition: 0.04s;
+}
+
+.button:hover {
   background-color: blue;
   color: white;
 }
 
+.button_filled {
+  font-family: "Quicksand", sans-serif;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: blue;
+  color: aliceblue;
+  border: 1px black solid;
+  transition: 0.04s;
+}
+
+.button_filled:hover {
+  background-color: aliceblue;
+  color: blue;
+}
+
+.outline_btns {
+  margin-bottom: 10px;
+}
+
 body {
   background: white;
+  font-family: quicksand;
 }/*# sourceMappingURL=main.css.map */
