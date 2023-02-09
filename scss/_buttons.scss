@@ -1,14 +1,14 @@
-.outline_btns{
+.button{
     transition-duration: 0.4s;
     border-radius: 10px;
 }
 
-.outline_btns:hover{
+.button:hover{
     background-color: black;
     color: white;
 }
 
-.filled_btns{
+.button_filled{
 background-color: black;
 color: white;
 }
