@@ -7,13 +7,7 @@
 }
 
 .button_filled{
-    font-family: 'Quicksand', sans-serif;
-    padding: 10px;
-    border-radius: 8px;
-    background-color:blue;
-    color: aliceblue;
-    border: 1px black solid ;
-    transition: .04s;
+    @include button-filled;
 }
 .button_filled:hover{
     background-color: aliceblue;
