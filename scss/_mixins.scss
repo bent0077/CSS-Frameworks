@@ -1,0 +1,41 @@
+//buttons
+@mixin button-outline {
+    font-family: 'Quicksand', sans-serif;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: aliceblue;
+    color: blue;
+    border: 1px black solid ;
+    transition: .04s;
+}
+@mixin button-filled{
+    font-family: 'Quicksand', sans-serif;
+    padding: 10px;
+    border-radius: 8px;
+    background-color:blue;
+    color: aliceblue;
+    border: 1px black solid ;
+    transition: .04s;
+}
+
+
+//headings and text
+@mixin main-heading{
+    font-size: 35px;
+    font-weight: 700;
+}
+
+@mixin sub-heading{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+@mixin sub-heading-alt{
+    font-size: 25px;
+    font-weight: 500;
+}
+
+@mixin text{
+    font-size: 18px;
+    font-weight: 300;
+}
