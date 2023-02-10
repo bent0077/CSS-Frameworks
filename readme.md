@@ -1,0 +1,1 @@
+This is a simple framework with minimalistic design and 2 basic colors, a standard blue and a very light blue. it uses the font Quicksand 

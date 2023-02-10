@@ -34,11 +34,11 @@
 
 input[type=text], select {
   width: 50%;
-  padding: 12px 20px;
-  margin: 8px 0;
+  padding: 10px 20px;
+  margin: 10px 0;
   display: inline-block;
-  border: 1px solid #000000;
-  border-radius: 4px;
+  border: 1px solid black;
+  border-radius: 8px;
   box-sizing: border-box;
   font-family: quicksand;
   font-weight: 400;
@@ -47,6 +47,30 @@ input[type=text], select {
 table, th, td {
   border: 1px solid blue;
   background-color: aliceblue;
+}
+
+td {
+  padding: 20px;
+}
+
+.main-heading {
+  font-size: 30px;
+}
+
+.sub-heading {
+  font-size: 25px;
+}
+
+.sub-heading-alt {
+  font-size: 22px;
+}
+
+.text {
+  font-size: 18px;
+}
+
+li {
+  list-style-type: square;
 }
 
 body {

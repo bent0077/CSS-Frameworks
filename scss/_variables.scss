@@ -1,10 +1,22 @@
-//colors
+// theme colors
 $primary: blue;
-$accent: aliceblue;
+$secondary: aliceblue;
+$black: black;
+$white: white;
 
-//text
-$heading: 35px;
-$subHeading: 30px;
-$subHeadingalt:25px;
 
+//font size
+$font-size-xxl: 30px;
+$font-size-xl: 25px;
+$font-size-lg:22px;
+$font-size-sm: 18px;
+
+// borders
+$base-border-thickness: 1px;
+$base-border-radius: 8px;
+//spacing
+$base-padding-sm: 10px;
+$base-padding-lg:20px;
+$base-margin-sm: 10px;
+$base-margin-lg:30px;
 

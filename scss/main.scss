@@ -1,11 +1,13 @@
+@import './variables';
 @import './buttons';
 @import './forms';
 @import './tables';
 @import './text';
+@import './lists';
 
 
 body{
-    background:white;
+  background:$white;
   font-family: quicksand;
   margin-left: 30px;
 }
